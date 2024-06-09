@@ -1,0 +1,18 @@
+{
+  "id": "did:web:pavankad.github.io:tdc_1",
+  "assertionMethod": [
+    {
+      "id": "did:web:pavankad.github.io:tdc_1#75e44c03c513bb01f4b28ef0587e7905ecf7df4397a21cbf21b590b2165de6e6",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:pavankad.github.io:tdc_1",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-384",
+        "x": "TkifvcdDGhGIOswlRHoj9c6L9DJrpZQCFpf47aCmKfCBF--KnfivUkw6nLatsoGd",
+        "y": "0sgYBVtYEpg1G_sHbrl0yEK0dt1Rd715AzP9Zy56tUi3nszEGWxtaTsOAurXbbxe",
+        "kid": "#75e44c03c513bb01f4b28ef0587e7905ecf7df4397a21cbf21b590b2165de6e6",
+        "alg": "ES384"
+      }
+    }
+  ]
+}
